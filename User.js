@@ -40,10 +40,6 @@ class User {
             ...this._details?.getDetails() 
         };
     }
-
-
-    
-
 }
 
 export default User;
